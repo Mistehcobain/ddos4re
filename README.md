@@ -1,1 +1,1 @@
-# ddos4re
+the lion has been summoned suddenly from his sleep? why not try. the lion is ready to ddos ​​his prey's website based on tcp. this script is made to send packets based on a lot of data so it needs to eat something victim. hopefully this tool can be all in desire.
